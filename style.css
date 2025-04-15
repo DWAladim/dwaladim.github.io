@@ -100,3 +100,9 @@ form {
   flex-direction: column;
   gap: 12px;
 }
+
+
+/* Cor personalizada para o título "Meu Portfólio" */
+header h1 {
+  color: #ffcc00; /* Amarelo vibrante - você pode trocar por outra cor como #ffffff, #f4a261, etc */
+}
