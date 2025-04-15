@@ -81,3 +81,22 @@ button {
 button:hover {
   background-color: #005fa3;
 }
+.projeto {
+  margin-bottom: 25px;
+  padding: 15px;
+  border-left: 5px solid #1e90ff;
+  background-color: #f0f8ff;
+  border-radius: 8px;
+}
+.projeto h3 a {
+  color: #0077cc;
+  text-decoration: none;
+}
+.projeto h3 a:hover {
+  text-decoration: underline;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
